@@ -27,9 +27,9 @@ image.save("girl.png")
 
 ## Google Colab
 
-We support a [Google Colab](https://github.com/gradio-app/gradio) to run Animistatics:
+Using [Google Colab](https://colab.research.google.com) to run Animistious:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maseshi/Animistatics/blob/main/animistatics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YoruAkio/Animistious/blob/main/Animistious.ipynb)
 
 ## License
 
